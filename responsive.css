@@ -1,0 +1,8 @@
+@media (max-width:768px){
+	div.hero {
+	    width: 100%;
+	}
+	div .img-Box img {
+	    width: 100%;
+	}
+}
